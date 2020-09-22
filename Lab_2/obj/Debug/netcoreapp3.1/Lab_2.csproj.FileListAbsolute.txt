@@ -1,0 +1,13 @@
+D:\3 семестр\ООП\Laba2\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.exe
+D:\3 семестр\ООП\Laba2\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.deps.json
+D:\3 семестр\ООП\Laba2\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.json
+D:\3 семестр\ООП\Laba2\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.dev.json
+D:\3 семестр\ООП\Laba2\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.dll
+D:\3 семестр\ООП\Laba2\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.pdb
+D:\3 семестр\ООП\Laba2\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.csprojAssemblyReference.cache
+D:\3 семестр\ООП\Laba2\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.csproj.CoreCompileInputs.cache
+D:\3 семестр\ООП\Laba2\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfoInputs.cache
+D:\3 семестр\ООП\Laba2\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfo.cs
+D:\3 семестр\ООП\Laba2\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.dll
+D:\3 семестр\ООП\Laba2\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.pdb
+D:\3 семестр\ООП\Laba2\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.genruntimeconfig.cache
