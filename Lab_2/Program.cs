@@ -115,8 +115,10 @@ namespace Lab_2
             //Console.WriteLine("==================================================================================================TASK1E=========================================================================================================");
 
             //int? t1e1 = null;
-            //Console.WriteLine($"{t1e1.Value} - значение nullable перемененной t1e1");//??????????????????
-
+            //if (t1e1.HasValue)
+            //    Console.WriteLine($"{t1e1.Value} - значение nullable перемененной t1e1");
+            //else
+            //    Console.WriteLine("Переменна пуста");
             ////-----------------------------------------------------------------------TASK1F--------------------------------------------------------------------------------------------------------------------
             //Console.WriteLine("==================================================================================================TASK1F=========================================================================================================");
 
@@ -347,7 +349,7 @@ namespace Lab_2
             Console.WriteLine("==================================================================================================TASK6=========================================================================================================");
 
             int t6a1 = Int32.MaxValue;
-            int t6a2 = 12345;
+            int t6a2 = 123;
             Console.WriteLine(Check(t6a1, t6a2));
             Console.WriteLine(Uncheck(t6a1, t6a2));
 
@@ -361,7 +363,7 @@ namespace Lab_2
                         return result;
                     }
                 }
-                catch (OverflowException message)
+                catch (Exception message)
                 {
                     Console.WriteLine(message.Message);
                 }
@@ -370,19 +372,11 @@ namespace Lab_2
 
             int Uncheck(int t6a1, int t6a2)
             {
-                try
-                {
                     unchecked
                     {
                         int result = t6a1 + t6a2;
                         return result;
-                    }
-                }
-                catch (OverflowException message)
-                {
-                    Console.WriteLine(message.Message);
-                }
-                return 0;
+                    }   
             }
         }
     }
